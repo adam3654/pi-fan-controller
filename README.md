@@ -1,3 +1,5 @@
+This fork is customized for my temperature and GPIO pin settings only, no other changes.
+
 # Pi Fan Controller
 
 Raspberry Pi fan controller.
